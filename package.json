@@ -1,6 +1,6 @@
 {
   "name": "iflytek",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/tawen/iflytek#readme",
   "dependencies": {
+    "colors-cli": "^1.0.13",
     "commander": "^2.15.1"
   }
 }
